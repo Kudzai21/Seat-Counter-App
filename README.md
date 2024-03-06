@@ -1,4 +1,5 @@
-# Seat Counter App
+
+## Seat Counter App
 
 Welcome to the Seat Counter App repository! This web application allows users to manage and keep track of available seats in a venue. The app is built using HTML, CSS, and JavaScript.
 
@@ -15,7 +16,7 @@ To run the Seat Counter App locally, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/seat-counter-app.git
+   git clone https://github.com/Kudzai21/Seat-Counter-App.git
    ```
 
 2. Open the `index.html` file in your web browser.
