@@ -1,21 +1,40 @@
-# cMLr3asK
+# Seat Counter App
 
-Quick start:
+Welcome to the Seat Counter App repository! This web application allows users to manage and keep track of available seats in a venue. The app is built using HTML, CSS, and JavaScript.
 
-```
-$ npm install
-$ npm start
-````
+## Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Seat Counting:** Easily count and keep track of the number of available seats.
+- **Intuitive Interface:** User-friendly design for a seamless experience.
+- **Responsive Design:** The app is designed to work on various screen sizes for a consistent user experience.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Getting Started
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+To run the Seat Counter App locally, follow these simple steps:
 
-Happy Coding!
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/seat-counter-app.git
+   ```
+
+2. Open the `index.html` file in your web browser.
+
+3. Start counting and managing seats!
+
+## Usage
+
+- Click on the "increment" button to increment the seat count.
+- Click on the "decrement" button to decrement the seat count.
+- Click on the "save" button to save the number of seats counted.
+
+## Contributing
+
+If you'd like to contribute to the project, feel free to submit issues or pull requests. Your feedback and contributions are highly appreciated!
+
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer:
+
+Oswell Kudzai Mapuranga - mapurangako@gmail.com
