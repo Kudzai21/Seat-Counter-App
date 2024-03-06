@@ -1,0 +1,79 @@
+:root{
+    --increment-btn: #14213D;
+    --save-btn: #FCA311;
+}
+body {
+    background-image: url("seats.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 80%;
+    border-radius: 10px;
+    padding: 20px;
+    width: calc(50%);
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family:'Ariel', sans-serif;
+}
+
+h2 {
+    font-size: 3.5rem;
+    margin-top: 0;  
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+button {
+    border: 1px solid var(--increment-btn);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: 600;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family:'Ariel', sans-serif;
+}
+
+#increment-btn {
+    background: var(--increment-btn);
+}
+
+#decrement-btn {
+    background-color: transparent;
+    color: var(--increment-btn);
+}
+#save-btn {
+    background: var(--save-btn);
+    color: var(--increment-btn);
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .container {
+        max-width: 80%;
+        border-radius: 10px;
+        padding: auto;
+        width: calc(100%);
+        padding: 20px;
+    }
+}
